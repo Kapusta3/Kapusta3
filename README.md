@@ -5,6 +5,16 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/snake.svg" />
+  <img alt="GitHub contribution snake animation" src="dist/snake.svg" />
+</picture>
+
+---
+
 ## 🚀 What I do
 - Develop **plugins for SCP:SL** using the **Exiled API**  
 - Create **desktop applications** with **C# WinForms/WPF**  
