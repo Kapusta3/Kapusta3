@@ -57,7 +57,7 @@ I love learning new technologies, improving my projects, and sharing knowledge w
   </tr>
   <tr>
     <td><img src="https://i.ytimg.com/vi/IgyrUpYK0WY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFIgWihlMA8=&rs=AOn4CLBiSaYdhElb6HAbiGLODOmFKflHkA" width="250" height="250" alt="Achievement 3"></td>
-    <td><img src="https://media.discordapp.net/attachments/1232390226630938715/1429580542604607488/1db09a5920d4a2635c10bbeedda9d472.jpg?ex=69110621&is=690fb4a1&hm=580899202c545cd9396e685040410b8531b2f872bf11c5336ba96d94ca849997&=&format=webp" width="250" height="250" alt="Achievement 4"></img></td>
+    <td><img src="https://scdn.sonauto.ai/images/song-2f8fa4bf-5f0d-475a-8cfb-ddf30b27ee52?optimizer=image&width=3840&quality=75" width="250" height="250" alt="Achievement 4"></img></td>
   </tr>
 </table>
 
