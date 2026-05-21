@@ -1,6 +1,17 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kapusta3+%F0%9F%91%8B;SCP%3ASL+Plugin+Dev;C%23+%2F+Python+enjoyer;Приготовьте+свой+зад!)](https://git.io/typing-svg)
- 
+
+```
+██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███████╗████████╗ █████╗ ██████╗
+██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔══██╗╚════██╗
+█████╔╝ ███████║██████╔╝██║   ██║███████╗   ██║   ███████║  ▄███╔╝
+██╔═██╗ ██╔══██║██╔═══╝ ██║   ██║╚════██║   ██║   ██╔══██║  ▀▀══╝
+██║  ██╗██║  ██║██║     ╚██████╔╝███████║   ██║   ██║  ██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═╝
+```
+
+Пишу какие-то прикольчики и иногда сплю.
+
+</div>
 <br/>
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
