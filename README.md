@@ -1,9 +1,17 @@
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kapusta3+%F0%9F%91%8B;SCP%3ASL+Plugin+Dev;C%23+%2F+Python+enjoyer;Приготовьте+свой+зад!)](https://git.io/typing-svg)
-
+ 
 <br/>
-
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Exiled](https://img.shields.io/badge/Exiled-FF6F61?style=for-the-badge)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+</div>
+<br/>
+<div align="center">
+  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Exiled](https://img.shields.io/badge/Exiled-FF6F61?style=for-the-badge)
@@ -28,31 +36,21 @@
 
 ```
 while (alive) {
-    writeSCPPlugins();    // добавляю в игру то, чего там не хватает
-    buildDesktopApps();   // WinForms / WPF, пока WPF не сломается
-    scriptSomething();    // Python, потому что лень делать руками
-    sleep();              // обязательный пункт
+    writeSCPPlugins();    // Бесполезное
+    buildDesktopApps();   // Прикольчткт на десктопе
+    scriptSomething();    // Что-то на умном
+    sleep();              // отсутствует пункт
 }
 ```
-
----
-
-## 🚧 Сейчас работаю над
-
-- 🔴 Плагины для **SCP:SL** — новые механики на сервере ProdamGarage
-- 🟡 **Discord AI Assistant** — бот Milka, притворяется человеком в чате
-- 🟢 Всегда открыт для интересных идей
-
----
 
 ## 📂 Проекты
 
 | 🗂 Проект | 📝 Описание |
 |-----------|-------------|
-| [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Плагины для SCP:SL на Exiled — кастомные механики для сервера |
+| [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Плагины для SCP:SL на Exiled(устаревшее) |
 | [MikuLauncher](https://github.com/Kapusta3/MikuLauncher) | Современный Minecraft-лаунчер на C# |
 | [wh40k_script](https://github.com/Kapusta3/wh40k_script) | Скрипты для Warhammer 40K: Dawn of War |
-| [Discord AI Assistant](https://github.com/Kapusta3/Discord-AI-assistant) | Discord-бот Milka — двухэтапный LLM-пайплайн, притворяется человеком |
+| [Discord AI Assistant](https://github.com/Kapusta3/Discord-AI-assistant) | Дискорд-тян Милка  |
 
 ---
 
