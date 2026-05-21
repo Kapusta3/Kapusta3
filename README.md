@@ -13,14 +13,6 @@
 
 </div>
 <br/>
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Exiled](https://img.shields.io/badge/Exiled-FF6F61?style=for-the-badge)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- 
-</div>
-<br/>
 <div align="center">
   
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
