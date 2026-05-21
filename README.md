@@ -1,7 +1,17 @@
-# Hi there! 👋 
+<div align="center">
 
-I’m passionate about **developing plugins for SCP: Secret Laboratory** using **C# (Exiled)** and creating **desktop applications in C# and Python**.  
-I love learning new technologies, improving my projects, and sharing knowledge with the community.
+```
+██╗  ██╗ █████╗ ██████╗ ██╗   ██╗███████╗████████╗ █████╗ ██████╗
+██║ ██╔╝██╔══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝██╔══██╗╚════██╗
+█████╔╝ ███████║██████╔╝██║   ██║███████╗   ██║   ███████║  ▄███╔╝
+██╔═██╗ ██╔══██║██╔═══╝ ██║   ██║╚════██║   ██║   ██╔══██║  ▀▀══╝
+██║  ██╗██║  ██║██║     ╚██████╔╝███████║   ██║   ██║  ██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝  ╚═╝
+```
+
+Пишу плагины для SCP:SL, делаю десктопные приложения и иногда сплю.
+
+</div>
 
 ---
 
@@ -15,15 +25,17 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 
 ---
 
-## 🚀 What I do
-- Develop **plugins for SCP:SL** using the **Exiled API**  
-- Create **desktop applications** with **C# WinForms/WPF**  
-- Write **Python scripts and utilities** for automation  
-- Continuously learning and improving programming skills  
+## 🔧 Чем занимаюсь
+
+- Пишу плагины под **SCP:SL** на [Exiled](https://github.com/ExMod-Team/EXILED) — добавляю в игру то, чего там не хватает
+- Делаю **десктопные приложения** на C# (WinForms / WPF)
+- Пишу **Python-скрипты** для автоматизации всякой бытовухи
+- Иногда задаюсь вопросом зачем я это всё делаю — и продолжаю
 
 ---
 
-## 💻 Skills
+## 💻 Стек
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Exiled](https://img.shields.io/badge/Exiled-FF6F61?style=for-the-badge)
@@ -32,34 +44,35 @@ I love learning new technologies, improving my projects, and sharing knowledge w
 
 ---
 
-## 📂 My Projects
-| Project | Description |
-|--------|----------|
-| [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Plugins for SCP: Secret Laboratory|
-| [Desktop Apps](https://github.com/Kapusta3/MikuLauncher) | Desktop applications  |
-| [Utilities & Scripts](https://github.com/Kapusta3/wh40k_script) | Automation scripts and helper tools |
+## 📂 Проекты
+
+| Проект | Что это |
+|--------|---------|
+| [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Плагины для SCP: Secret Laboratory на Exiled |
+| [MikuLauncher](https://github.com/Kapusta3/MikuLauncher) | Десктопное приложение |
+| [wh40k_script](https://github.com/Kapusta3/wh40k_script) | Скрипты и утилиты для автоматизации |
+| [Discord AI Assistant](https://github.com/Kapusta3/Discord-AI-assistant) | Бот-персонаж Milka для Discord на LLM-пайплайне |
 
 ---
 
-## 🌐 Contact Me
-- [GitHub](https://github.com/Kapusta3)  
-- [Steam](https://steamcommunity.com/profiles/76561199132431203/)  
+## 🌐 Связь
+
+- [GitHub](https://github.com/Kapusta3)
+- [Steam](https://steamcommunity.com/profiles/76561199132431203/)
 - [Discord](https://discord.com/users/978033922183135333)
 
 ---
 
-## 📊 Visitors
+## 📊 Статистика
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSafov07&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kapusta3&show_icons=true&theme=tokyonight&count_private=true)
 ![Visitors](https://komarev.com/ghpvc/?username=AnSafov07&color=green)
 
 ---
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSafov07&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=Kapusta3&show_icons=true&theme=tokyonight&count_private=true)
+## 🏆 Жизненные достижения
 
----
-
-## 🏆 Life Achievements
 <table>
   <tr>
     <td><img src="https://i.imgur.com/4Mg31Yf.png" width="250" height="250" alt="Achievement 1"></td>
@@ -67,11 +80,12 @@ I love learning new technologies, improving my projects, and sharing knowledge w
   </tr>
   <tr>
     <td><img src="https://i.ytimg.com/vi/IgyrUpYK0WY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFIgWihlMA8=&rs=AOn4CLBiSaYdhElb6HAbiGLODOmFKflHkA" width="250" height="250" alt="Achievement 3"></td>
-    <td><img src="https://scdn.sonauto.ai/images/song-2f8fa4bf-5f0d-475a-8cfb-ddf30b27ee52?optimizer=image&width=3840&quality=75" width="250" height="250" alt="Achievement 4"></img></td>
+    <td><img src="https://scdn.sonauto.ai/images/song-2f8fa4bf-5f0d-475a-8cfb-ddf30b27ee52?optimizer=image&width=3840&quality=75" width="250" height="250" alt="Achievement 4"></td>
   </tr>
 </table>
 
 ---
 
-## ⚡ Motto
+## ⚡ Девиз
+
 > "Приготовьте свой зад!"
