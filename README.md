@@ -51,7 +51,7 @@
 | [SCP SL Plugins](https://github.com/Kapusta3/ProdamGarage_SCP) | Плагины для SCP: Secret Laboratory на Exiled |
 | [MikuLauncher](https://github.com/Kapusta3/MikuLauncher) | Десктопное приложение |
 | [wh40k_script](https://github.com/Kapusta3/wh40k_script) | Скрипты и утилиты для автоматизации |
-| [Discord AI Assistant](https://github.com/Kapusta3/Discord-AI-assistant) | Бот-персонаж Milka для Discord на LLM-пайплайне |
+| [Discord AI Assistant](https://github.com/Kapusta3/Discord-AI-assistant) | мм бот в Discord |
 
 ---
 
